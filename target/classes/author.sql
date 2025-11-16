@@ -1,0 +1,12 @@
+INSERT INTO public.author (id, email, name) VALUES (1, 'brown@gmail.com', 'Dan brown');
+INSERT INTO public.author (id, email, name) VALUES (2, 'Peter@gmail.com', 'Peter');
+INSERT INTO public.author (id, email, name) VALUES (3, 'Susi@gmail.com', 'Susi');
+INSERT INTO public.author (id, email, name) VALUES (4, 'Schildt@gmail.com', 'Herbert Schildt');
+INSERT INTO public.author (id, email, name) VALUES (5, 'Mayer@gmail.com', 'Mayer Bayes');
+INSERT INTO public.author (id, email, name) VALUES (6, 'Alin@gmail.com', 'Alin');
+INSERT INTO public.author (id, email, name) VALUES (7, 'Alex@gmail.com', 'Alex');
+INSERT INTO public.author (id, email, name) VALUES (8, 'Blatty@gmail.com', 'William Peter Blatty');
+INSERT INTO public.author (id, email, name) VALUES (9, 'Sparks@gmail.com', 'Nicholas Sparks');
+INSERT INTO public.author (id, email, name) VALUES (10, 'Moyes@gmail.com', 'Jojo Moyes');
+INSERT INTO public.author (id, email, name) VALUES (11, 'Meyer@gmail.com', 'Stephenie Meyer');
+INSERT INTO public.author (id, email, name) VALUES (12, 'Gabaldon@gmail.com', 'Diana Gabaldon');

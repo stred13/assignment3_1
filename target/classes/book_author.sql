@@ -1,0 +1,12 @@
+INSERT INTO public.book_author (primary_author, book_id, author_id) VALUES (true, 1, 1);
+INSERT INTO public.book_author (primary_author, book_id, author_id) VALUES (true, 2, 2);
+INSERT INTO public.book_author (primary_author, book_id, author_id) VALUES (true, 3, 3);
+INSERT INTO public.book_author (primary_author, book_id, author_id) VALUES (true, 4, 4);
+INSERT INTO public.book_author (primary_author, book_id, author_id) VALUES (true, 5, 5);
+INSERT INTO public.book_author (primary_author, book_id, author_id) VALUES (false, 5, 6);
+INSERT INTO public.book_author (primary_author, book_id, author_id) VALUES (true, 6, 7);
+INSERT INTO public.book_author (primary_author, book_id, author_id) VALUES (true, 7, 8);
+INSERT INTO public.book_author (primary_author, book_id, author_id) VALUES (true, 8, 9);
+INSERT INTO public.book_author (primary_author, book_id, author_id) VALUES (true, 9, 10);
+INSERT INTO public.book_author (primary_author, book_id, author_id) VALUES (true, 10, 11);
+INSERT INTO public.book_author (primary_author, book_id, author_id) VALUES (true, 11, 12);

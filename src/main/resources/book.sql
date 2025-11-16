@@ -1,0 +1,11 @@
+INSERT INTO public.book (id, title, category_id) VALUES (1, 'The Da Vinci Code', 1);
+INSERT INTO public.book (id, title, category_id) VALUES (2, 'Python notebook', 4);
+INSERT INTO public.book (id, title, category_id) VALUES (6, 'Hellraiser', 6);
+INSERT INTO public.book (id, title, category_id) VALUES (5, 'head First Javascript', 2);
+INSERT INTO public.book (id, title, category_id) VALUES (3, 'Dot Net', 2);
+INSERT INTO public.book (id, title, category_id) VALUES (4, 'Java: The Complete Reference', 2);
+INSERT INTO public.book (id, title, category_id) VALUES (9, 'Me Before You', 11);
+INSERT INTO public.book (id, title, category_id) VALUES (10, 'Twilight', 11);
+INSERT INTO public.book (id, title, category_id) VALUES (7, 'Bird Box', 6);
+INSERT INTO public.book (id, title, category_id) VALUES (8, 'The Notebook', 11);
+INSERT INTO public.book (id, title, category_id) VALUES (11, 'Outlander', 11);

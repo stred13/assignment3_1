@@ -1,0 +1,11 @@
+INSERT INTO public.category (id, name) VALUES (1, 'Fiction');
+INSERT INTO public.category (id, name) VALUES (2, 'Tech');
+INSERT INTO public.category (id, name) VALUES (6, 'Horror');
+INSERT INTO public.category (id, name) VALUES (7, 'Advanture');
+INSERT INTO public.category (id, name) VALUES (8, 'Religion');
+INSERT INTO public.category (id, name) VALUES (9, 'Non-Fiction');
+INSERT INTO public.category (id, name) VALUES (10, 'Comic');
+INSERT INTO public.category (id, name) VALUES (11, 'Romantic');
+INSERT INTO public.category (id, name) VALUES (4, 'Python');
+INSERT INTO public.category (id, name) VALUES (5, 'Cooking');
+INSERT INTO public.category (id, name) VALUES (3, 'Science');

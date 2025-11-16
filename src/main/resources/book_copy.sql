@@ -1,0 +1,13 @@
+INSERT INTO public.book_copy (id, publish_date, version, book_id) VALUES (1, '2023-11-15 02:00:00.000000', 1, 1);
+INSERT INTO public.book_copy (id, publish_date, version, book_id) VALUES (2, '2010-02-04 08:00:00.000000', 1, 2);
+INSERT INTO public.book_copy (id, publish_date, version, book_id) VALUES (3, '2019-11-13 02:00:00.000000', 1, 3);
+INSERT INTO public.book_copy (id, publish_date, version, book_id) VALUES (4, '2011-10-11 02:00:00.000000', 2, 3);
+INSERT INTO public.book_copy (id, publish_date, version, book_id) VALUES (5, '2019-11-11 02:00:00.000000', 1, 4);
+INSERT INTO public.book_copy (id, publish_date, version, book_id) VALUES (6, '2018-12-09 03:00:00.000000', 1, 5);
+INSERT INTO public.book_copy (id, publish_date, version, book_id) VALUES (7, '2017-03-11 02:00:00.000000', 2, 6);
+INSERT INTO public.book_copy (id, publish_date, version, book_id) VALUES (8, '1996-10-11 03:00:00.000000', 1, 7);
+INSERT INTO public.book_copy (id, publish_date, version, book_id) VALUES (9, '1964-01-13 03:00:00.000000', 1, 8);
+INSERT INTO public.book_copy (id, publish_date, version, book_id) VALUES (10, '1968-01-12 02:02:04.000000', 2, 8);
+INSERT INTO public.book_copy (id, publish_date, version, book_id) VALUES (11, '1955-08-23 03:00:00.000000', 1, 9);
+INSERT INTO public.book_copy (id, publish_date, version, book_id) VALUES (12, '1999-03-24 02:00:00.000000', 1, 10);
+INSERT INTO public.book_copy (id, publish_date, version, book_id) VALUES (13, '1999-02-21 02:00:00.000000', 1, 11);
